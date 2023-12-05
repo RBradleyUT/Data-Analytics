@@ -30,4 +30,4 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 + Communication Skills
 
 ### Final Project
-+ Completed a final research project finding a link between obesity and SSA Benefits. This included finding, cleaning, and analyzing a data set to show correlation to give a final recommendation to better the American obesity epidemic.
++ Completed a final research project finding a link between obesity and SSA Benefits. This included finding, cleaning, and analyzing a data set to show correlation. This resulted in a final recommendation to attempt to better the American obesity epidemic.
