@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-This is the portfolio of all class assignments I have completed in Data Analytics.
+This is the portfolio of all class assignments I have completed in Data Analytics at university. It shows my growth from the beginning of the semester to my final project; which show the growth in my analytical skills.
 
 # My Resume
 + [**Resume**](https://colab.research.google.com/drive/1Rt4KImrWnexdFM83dqcehhTKmgh9fpM7?usp=sharing)
