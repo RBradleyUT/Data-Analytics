@@ -24,3 +24,6 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 + A6 Segmentation (retail transactions and behavioral segmentation)
 ### Module 7: Use GitHub to Create Your Assignment Portfolio
 + List Your Data Analytics Skills
+
+### Final Project
++ Completed a final research project finding a link between obesity and SSA Benefits
