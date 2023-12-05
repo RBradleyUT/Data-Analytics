@@ -1,9 +1,9 @@
 ## SUU
-# Data Analytics Portfolio \
+# Data Analytics Portfolio
 This is the portfolio of all class assignments I have completed in Data Analytics.
 
-#My Résumé \
-+ **Résumé** \
+# My Resume
++ [**Resume**](https://colab.research.google.com/drive/1Rt4KImrWnexdFM83dqcehhTKmgh9fpM7?usp=sharing)
 
 ## _Table of Contents_
 ### Module 1: Using Colab
