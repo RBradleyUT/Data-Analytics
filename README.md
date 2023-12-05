@@ -22,7 +22,12 @@ This is the portfolio of all class assignments I have completed in Data Analytic
 
 + A6 Segmentation (retail transactions and behavioral segmentation)
 ### Module 7: Use GitHub to Create Your Assignment Portfolio
-+ List Your Data Analytics Skills
+**Skills**
++ Use of Python libraries such as Pandas, Matplotlib, Numpy, Plotly, etc.
++ Statistical Analysis and Visualization Skills
++ Data Cleaning and Processing
++ Basic Machine Learning Techniques
++ Communication Skills
 
 ### Final Project
 + Completed a final research project finding a link between obesity and SSA Benefits
